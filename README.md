@@ -1,8 +1,8 @@
 # WATER-QUALITY-CLASSIFICATION-USING-MACHINE-LEARNING
 
 **Implementation of project in steps:**
-1) Dwnload python from https://www.python.org/downloads/
-2) Download all files to the system
+1) Download all files to the system
+2) Download python from https://www.python.org/downloads/
 3) Open IDLE
 4) Now go to file<open select "classifing water quality and type of water.py"  or "classifing water quality.py"
 5) Then click on Run < Run Module
